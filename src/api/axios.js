@@ -4,7 +4,7 @@ import axios from 'axios';
 //const BASE_URL = 'http://localhost:3500';
 // const BASE_URL = 'http://52.91.184.60';
 // const BASE_URL = 'http://ec2-52-91-184-60.compute-1.amazonaws.com';
-const BASE_URL = 'http://498autentication-env.eba-w49fafyt.us-east-1.elasticbeanstalk.com';
+const BASE_URL = 'https://498autentication-env.eba-w49fafyt.us-east-1.elasticbeanstalk.com';
 
 
 export default axios.create({
